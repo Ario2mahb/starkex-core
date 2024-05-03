@@ -9,7 +9,7 @@
 [submodule "starkex-contracts"]
     path = starkex-contracts
     url = https://github.com/starkware-libs/starkex-contracts.git
-    commit = 210bd5f
+    commit = 765bd5f
 [submodule "starkware-crypto-utils"]
     path = starkware-crypto-utils
     url = https://github.com/starkware-libs/starkware-crypto-utils.git
